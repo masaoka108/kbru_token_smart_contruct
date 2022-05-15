@@ -15,7 +15,7 @@ contract Kbru is ERC20 {
     event DebugUint(uint debugInt);
     event DebugAddress(address debugAddress);
 
-    constructor() ERC20("Kbru Token", "KBRU") {    // decialはデフォルトで18
+    constructor() ERC20("Kbru Token", "KBRU") {
         _mint(msg.sender, 10000000 * 10**18); // 1000万 x 10^18
         minter = msg.sender;
     }

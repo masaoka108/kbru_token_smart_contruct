@@ -538,11 +538,11 @@
 			]
 		},
 		"src/kbru.sol": {
-			"keccak256": "0x7780559fe38447fc2e4397a2556be754c3988d15f5a673a7c987fb20a15671bd",
+			"keccak256": "0xa971c983fa976ae6d3660092018194a0869be0b5b59c0bee3d9c8de6af6c0297",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ba702d2a3a8c0537a0bed3674c8621e24850b59a5785005df7da30f9e16f0d54",
-				"dweb:/ipfs/QmYWb8UBepUDiR7CwwYoveR1wTvhcDF58KFZjQdrK5qosp"
+				"bzz-raw://33eeb833b607cbde7b106e6e1db543046f8d64d3bda9f3a483272ba9d4b83ad2",
+				"dweb:/ipfs/QmRSCnP6A7VuBeR9pwwDWsRchTxj9zKNsrbsfn6xKA2ko7"
 			]
 		}
 	},
